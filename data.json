@@ -1,0 +1,296 @@
+[
+    {
+      "input": "What is food security?",
+      "output": "Food security means having enough safe and nutritious food to meet the dietary needs of a population."
+    },
+    {
+      "input": "Explain food security.",
+      "output": "Food security means having enough safe and nutritious food to meet the dietary needs of a population."
+    },
+    {
+      "input": "Define food security.",
+      "output": "Food security means having enough safe and nutritious food to meet the dietary needs of a population."
+    },
+    {
+      "input": "What does food security mean?",
+      "output": "Food security means having enough safe and nutritious food to meet the dietary needs of a population."
+    },
+    {
+      "input": "Why is food security important?",
+      "output": "Food security means having enough safe and nutritious food to meet the dietary needs of a population."
+    },
+  
+    {
+      "input": "How can farmers increase crop yields?",
+      "output": "Farmers can increase crop yield using fertilizers, pesticides, improved crop varieties, and controlled environments."
+    },
+    {
+      "input": "Ways to increase crop production?",
+      "output": "Farmers can increase crop yield using fertilizers, pesticides, improved crop varieties, and controlled environments."
+    },
+    {
+      "input": "Methods to boost crop yields?",
+      "output": "Farmers can increase crop yield using fertilizers, pesticides, improved crop varieties, and controlled environments."
+    },
+    {
+      "input": "How do farmers grow more crops?",
+      "output": "Farmers can increase crop yield using fertilizers, pesticides, improved crop varieties, and controlled environments."
+    },
+    {
+      "input": "What techniques increase crop yield?",
+      "output": "Farmers can increase crop yield using fertilizers, pesticides, improved crop varieties, and controlled environments."
+    },
+  
+    {
+      "input": "What are fertilizers used for?",
+      "output": "Fertilizers supply essential nutrients like nitrogen, phosphorus, and potassium to boost plant growth."
+    },
+    {
+      "input": "Purpose of fertilizers in farming?",
+      "output": "Fertilizers supply essential nutrients like nitrogen, phosphorus, and potassium to boost plant growth."
+    },
+    {
+      "input": "Why do farmers use fertilizers?",
+      "output": "Fertilizers supply essential nutrients like nitrogen, phosphorus, and potassium to boost plant growth."
+    },
+    {
+      "input": "What do fertilizers provide to plants?",
+      "output": "Fertilizers supply essential nutrients like nitrogen, phosphorus, and potassium to boost plant growth."
+    },
+    {
+      "input": "How do fertilizers help crops?",
+      "output": "Fertilizers supply essential nutrients like nitrogen, phosphorus, and potassium to boost plant growth."
+    },
+  
+    {
+      "input": "What problems arise from overusing fertilizers?",
+      "output": "Too much fertilizer causes water pollution, eutrophication, and damage to aquatic ecosystems."
+    },
+    {
+      "input": "Negative effects of excessive fertilizer use?",
+      "output": "Too much fertilizer causes water pollution, eutrophication, and damage to aquatic ecosystems."
+    },
+    {
+      "input": "Why is overusing fertilizer harmful?",
+      "output": "Too much fertilizer causes water pollution, eutrophication, and damage to aquatic ecosystems."
+    },
+    {
+      "input": "What happens if too much fertilizer is used?",
+      "output": "Too much fertilizer causes water pollution, eutrophication, and damage to aquatic ecosystems."
+    },
+    {
+      "input": "How can excessive fertilizer damage the environment?",
+      "output": "Too much fertilizer causes water pollution, eutrophication, and damage to aquatic ecosystems."
+    },
+  
+    {
+      "input": "Explain eutrophication caused by farming.",
+      "output": "Eutrophication is the overgrowth of algae in water due to nutrient runoff from soils, depleting oxygen and killing aquatic life."
+    },
+    {
+      "input": "What is eutrophication in agriculture?",
+      "output": "Eutrophication is the overgrowth of algae in water due to nutrient runoff from soils, depleting oxygen and killing aquatic life."
+    },
+    {
+      "input": "How does eutrophication happen?",
+      "output": "Eutrophication is the overgrowth of algae in water due to nutrient runoff from soils, depleting oxygen and killing aquatic life."
+    },
+    {
+      "input": "Describe eutrophication.",
+      "output": "Eutrophication is the overgrowth of algae in water due to nutrient runoff from soils, depleting oxygen and killing aquatic life."
+    },
+    {
+      "input": "Why does eutrophication damage aquatic ecosystems?",
+      "output": "Eutrophication is the overgrowth of algae in water due to nutrient runoff from soils, depleting oxygen and killing aquatic life."
+    },
+  
+    {
+      "input": "What are pesticides?",
+      "output": "Pesticides are chemicals applied to crops to kill or repel pests that damage plants."
+    },
+    {
+      "input": "Define pesticides.",
+      "output": "Pesticides are chemicals applied to crops to kill or repel pests that damage plants."
+    },
+    {
+      "input": "Why use pesticides on crops?",
+      "output": "Pesticides are chemicals applied to crops to kill or repel pests that damage plants."
+    },
+    {
+      "input": "What do pesticides do?",
+      "output": "Pesticides are chemicals applied to crops to kill or repel pests that damage plants."
+    },
+    {
+      "input": "How do pesticides help farming?",
+      "output": "Pesticides are chemicals applied to crops to kill or repel pests that damage plants."
+    },
+  
+    {
+      "input": "What issues come from overusing pesticides?",
+      "output": "Overuse of pesticides can harm non-target species, lead to pest resistance, and pollute soil and water."
+    },
+    {
+      "input": "Negative impacts of excessive pesticide use?",
+      "output": "Overuse of pesticides can harm non-target species, lead to pest resistance, and pollute soil and water."
+    },
+    {
+      "input": "Why is using too many pesticides bad?",
+      "output": "Overuse of pesticides can harm non-target species, lead to pest resistance, and pollute soil and water."
+    },
+    {
+      "input": "What happens if pesticides are overused?",
+      "output": "Overuse of pesticides can harm non-target species, lead to pest resistance, and pollute soil and water."
+    },
+    {
+      "input": "How can excessive pesticides harm the environment?",
+      "output": "Overuse of pesticides can harm non-target species, lead to pest resistance, and pollute soil and water."
+    },
+  
+    {
+      "input": "What is biological control?",
+      "output": "Biological control uses natural predators or parasites to manage pest populations without chemicals."
+    },
+    {
+      "input": "Explain biological pest control.",
+      "output": "Biological control uses natural predators or parasites to manage pest populations without chemicals."
+    },
+    {
+      "input": "How does biological control help farming?",
+      "output": "Biological control uses natural predators or parasites to manage pest populations without chemicals."
+    },
+    {
+      "input": "What is an example of biological control?",
+      "output": "Biological control uses natural predators or parasites to manage pest populations without chemicals."
+    },
+    {
+      "input": "Why use biological control instead of chemicals?",
+      "output": "Biological control uses natural predators or parasites to manage pest populations without chemicals."
+    },
+  
+    {
+      "input": "Give an example of biological control.",
+      "output": "Introducing ladybirds to eat aphids on crops is an example of biological control."
+    },
+    {
+      "input": "Name a biological control method.",
+      "output": "Introducing ladybirds to eat aphids on crops is an example of biological control."
+    },
+    {
+      "input": "Example of a natural predator used in farming?",
+      "output": "Introducing ladybirds to eat aphids on crops is an example of biological control."
+    },
+    {
+      "input": "How are ladybirds used in farming?",
+      "output": "Introducing ladybirds to eat aphids on crops is an example of biological control."
+    },
+    {
+      "input": "What insect is used to control aphids?",
+      "output": "Introducing ladybirds to eat aphids on crops is an example of biological control."
+    },
+  
+    {
+      "input": "How do greenhouses improve food production?",
+      "output": "Greenhouses provide a controlled environment of temperature, humidity, and CO₂ so plants grow faster and more reliably."
+    },
+    {
+      "input": "Benefits of using greenhouses?",
+      "output": "Greenhouses provide a controlled environment of temperature, humidity, and CO₂ so plants grow faster and more reliably."
+    },
+    {
+      "input": "Why use greenhouses in farming?",
+      "output": "Greenhouses provide a controlled environment of temperature, humidity, and CO₂ so plants grow faster and more reliably."
+    },
+    {
+      "input": "How does a greenhouse help plants grow?",
+      "output": "Greenhouses provide a controlled environment of temperature, humidity, and CO₂ so plants grow faster and more reliably."
+    },
+    {
+      "input": "Explain the role of greenhouses in farming.",
+      "output": "Greenhouses provide a controlled environment of temperature, humidity, and CO₂ so plants grow faster and more reliably."
+    },
+  
+    {
+      "input": "What are the benefits of fish farming?",
+      "output": "Fish farming increases fish supply, reduces pressure on wild stocks, and allows controlled feeding and breeding."
+    },
+    {
+      "input": "Explain why fish farming is used.",
+      "output": "Fish farming increases fish supply, reduces pressure on wild stocks, and allows controlled feeding and breeding."
+    },
+    {
+      "input": "Why is fish farming important?",
+      "output": "Fish farming increases fish supply, reduces pressure on wild stocks, and allows controlled feeding and breeding."
+    },
+    {
+      "input": "What advantages does fish farming offer?",
+      "output": "Fish farming increases fish supply, reduces pressure on wild stocks, and allows controlled feeding and breeding."
+    },
+    {
+      "input": "How does fish farming benefit the environment?",
+      "output": "Fish farming increases fish supply, reduces pressure on wild stocks, and allows controlled feeding and breeding."
+    },
+  
+    {
+      "input": "What problems can fish farming cause?",
+      "output": "Fish farms can cause water pollution, disease spread among fish, and require antibiotics."
+    },
+    {
+      "input": "Negative effects of fish farming?",
+      "output": "Fish farms can cause water pollution, disease spread among fish, and require antibiotics."
+    },
+    {
+      "input": "Issues related to fish farming?",
+      "output": "Fish farms can cause water pollution, disease spread among fish, and require antibiotics."
+    },
+    {
+      "input": "What environmental concerns come from fish farms?",
+      "output": "Fish farms can cause water pollution, disease spread among fish, and require antibiotics."
+    },
+    {
+      "input": "How can fish farming harm aquatic ecosystems?",
+      "output": "Fish farms can cause water pollution, disease spread among fish, and require antibiotics."
+    },
+  
+    {
+      "input": "What is genetic modification of crops?",
+      "output": "Genetic modification alters a plant’s DNA to introduce traits like pest resistance or drought tolerance."
+    },
+    {
+      "input": "Define GM crops.",
+      "output": "Genetic modification alters a plant’s DNA to introduce traits like pest resistance or drought tolerance."
+    },
+    {
+      "input": "Why genetically modify plants?",
+      "output": "Genetic modification alters a plant’s DNA to introduce traits like pest resistance or drought tolerance."
+    },
+    {
+      "input": "What does genetic modification do to plants?",
+      "output": "Genetic modification alters a plant’s DNA to introduce traits like pest resistance or drought tolerance."
+    },
+    {
+      "input": "How do GM crops benefit farmers?",
+      "output": "Genetic modification alters a plant’s DNA to introduce traits like pest resistance or drought tolerance."
+    },
+  
+    {
+      "input": "List advantages of GM crops.",
+      "output": "GM crops can have higher yields, resist pests or diseases, and reduce the need for chemical sprays."
+    },
+    {
+      "input": "Benefits of genetically modified crops?",
+      "output": "GM crops can have higher yields, resist pests or diseases, and reduce the need for chemical sprays."
+    },
+    {
+      "input": "Why are GM crops useful?",
+      "output": "GM crops can have higher yields, resist pests or diseases, and reduce the need for chemical sprays."
+    },
+    {
+      "input": "What are the advantages of GM crops?",
+      "output": "GM crops can have higher yields, resist pests or diseases, and reduce the need for chemical sprays."
+    },
+    {
+      "input": "How do GM crops help reduce pesticides?",
+      "output": "GM crops can have higher yields, resist pests or diseases, and reduce the need for chemical sprays."
+    }
+  ]
+  
