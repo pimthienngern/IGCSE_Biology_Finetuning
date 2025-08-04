@@ -1,6 +1,6 @@
 # Stride101 IGCSE Biology Fine-Tuned AI Model
 
-This project showcases a fine-tuned language model designed to answer Edexcel IGCSE Biology questions, focused on Unit 2: Food Production. This includes fish farming, agriculture, eutrophication, greenhouse gases and more.
+This project showcases a fine-tuned language model designed to answer Edexcel IGCSE Biology questions, focused on Unit 2: Food Production and Ecology. This includes fish farming, ecosystem, eutrophication, greenhouse gases and more.
 
 ## Project Overview
 
