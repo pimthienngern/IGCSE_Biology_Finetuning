@@ -271,7 +271,6 @@
       "input": "How do GM crops benefit farmers?",
       "output": "Genetic modification alters a plant’s DNA to introduce traits like pest resistance or drought tolerance."
     },
-  
     {
       "input": "List advantages of GM crops.",
       "output": "GM crops can have higher yields, resist pests or diseases, and reduce the need for chemical sprays."
@@ -291,6 +290,471 @@
     {
       "input": "How do GM crops help reduce pesticides?",
       "output": "GM crops can have higher yields, resist pests or diseases, and reduce the need for chemical sprays."
+    },
+    {
+      "input": "Why is selective breeding used in farming?",
+      "output": "Selective breeding produces animals and crops with desirable traits like higher yield, disease resistance, or faster growth."
+    },
+    {
+      "input": "What is selective breeding?",
+      "output": "Selective breeding is the process of choosing parents with desired traits to produce offspring with those traits."
+    },
+    {
+      "input": "How does selective breeding increase food production?",
+      "output": "It produces organisms that grow faster, yield more, or are resistant to disease, increasing overall productivity."
+    },
+    {
+      "input": "Give an example of selective breeding in agriculture.",
+      "output": "Breeding cows that produce more milk is an example of selective breeding."
+    },
+    {
+      "input": "What is an advantage of selective breeding?",
+      "output": "Selective breeding can lead to improved yields and greater efficiency in food production."
+    },
+    {
+      "input": "What is hydroponics?",
+      "output": "Hydroponics is a method of growing plants in nutrient-rich water instead of soil."
+    },
+    {
+      "input": "How does hydroponics help food production?",
+      "output": "Hydroponics allows crops to grow in controlled environments with fewer pests and higher efficiency."
+    },
+    {
+      "input": "Benefits of hydroponic farming?",
+      "output": "Hydroponics uses less space and water and allows year-round crop production in controlled conditions."
+    },
+    {
+      "input": "What is the role of irrigation in farming?",
+      "output": "Irrigation supplies water to crops during dry periods, helping maintain consistent yields."
+    },
+    {
+      "input": "Why is irrigation important?",
+      "output": "It ensures plants receive enough water for growth, especially in areas with low rainfall."
+    },
+    {
+      "input": "What is monoculture farming?",
+      "output": "Monoculture is the farming of a single crop over a large area."
+    },
+    {
+      "input": "What are the problems with monoculture?",
+      "output": "Monoculture can reduce biodiversity and make crops more vulnerable to pests and diseases."
+    },
+    {
+      "input": "Advantages of monoculture farming?",
+      "output": "It allows large-scale harvesting and simplified management of crops."
+    },
+    {
+      "input": "How does crop rotation improve soil quality?",
+      "output": "Crop rotation prevents depletion of specific nutrients and reduces the buildup of pests and diseases."
+    },
+    {
+      "input": "What is crop rotation?",
+      "output": "Crop rotation is changing the type of crop grown in a field each season to maintain soil fertility."
+    },
+    {
+      "input": "How does adding compost help crops?",
+      "output": "Compost adds organic matter and nutrients to the soil, improving its structure and fertility."
+    },
+    
+    {
+      "input": "What is a habitat?",
+      "output": "A habitat is the natural environment in which an organism lives."
+    },
+    {
+      "input": "Define population in ecological terms.",
+      "output": "A population is a group of organisms of the same species living in the same area at the same time."
+    },
+    {
+      "input": "What is a community in ecology?",
+      "output": "A community is all the populations of different species living and interacting in an area."
+    },
+    {
+      "input": "What is an ecosystem?",
+      "output": "An ecosystem includes all the living organisms and their physical environment interacting together."
+    },
+    {
+      "input": "Define biodiversity.",
+      "output": "Biodiversity is the variety of different species of organisms in an ecosystem."
+    },
+    {
+      "input": "What is meant by the term 'abiotic factor'?",
+      "output": "Abiotic factors are the non-living components of an ecosystem, like temperature, light, and water."
+    },
+    {
+      "input": "Give an example of a biotic factor.",
+      "output": "An example of a biotic factor is predation, which involves interactions between living organisms."
+    },
+    {
+      "input": "What is a food chain?",
+      "output": "A food chain shows how energy is transferred from one organism to another in an ecosystem."
+    },
+    {
+      "input": "What does a food web represent?",
+      "output": "A food web represents a network of interconnected food chains in an ecosystem."
+    },
+    {
+      "input": "What is a producer?",
+      "output": "A producer is an organism that makes its own food, usually through photosynthesis, like plants."
+    },
+    {
+      "input": "What is a consumer?",
+      "output": "A consumer is an organism that eats other organisms to gain energy."
+    },
+    {
+      "input": "What is a primary consumer?",
+      "output": "A primary consumer is an organism that eats producers, usually herbivores."
+    },
+    {
+      "input": "What is a secondary consumer?",
+      "output": "A secondary consumer is an organism that eats primary consumers."
+    },
+    {
+      "input": "What is a tertiary consumer?",
+      "output": "A tertiary consumer is an organism that eats secondary consumers."
+    },
+    {
+      "input": "What is a decomposer?",
+      "output": "A decomposer is an organism that breaks down dead material and recycles nutrients into the ecosystem."
+    },
+    {
+      "input": "What is the role of microorganisms in decay?",
+      "output": "Microorganisms break down organic material during decay, recycling nutrients into the soil."
+    },
+    {
+      "input": "What is the importance of decay in ecosystems?",
+      "output": "Decay recycles nutrients, making them available for plants and supporting the food chain."
+    },
+    {
+      "input": "What is meant by the term 'trophic level'?",
+      "output": "A trophic level is the position an organism occupies in a food chain."
+    },
+    {
+      "input": "Which organisms are always at the first trophic level?",
+      "output": "Producers are always at the first trophic level."
+    },
+    {
+      "input": "What happens to energy at each trophic level?",
+      "output": "Energy is lost at each trophic level, mostly as heat, movement, or undigested material."
+    },
+    {
+      "input": "Why are food chains usually limited to four or five trophic levels?",
+      "output": "Because energy is lost at each level, there is not enough energy to support more levels."
+    },
+    {
+      "input": "What is a pyramid of numbers?",
+      "output": "A pyramid of numbers shows the number of organisms at each trophic level in a food chain."
+    },
+    {
+      "input": "What is a pyramid of biomass?",
+      "output": "A pyramid of biomass shows the total mass of organisms at each trophic level."
+    },
+    {
+      "input": "Why is a pyramid of biomass more accurate than a pyramid of numbers?",
+      "output": "It accounts for the actual mass and energy, not just the number of organisms."
+    },
+    {
+      "input": "What is the carbon cycle?",
+      "output": "The carbon cycle describes how carbon moves between the atmosphere, organisms, and the Earth."
+    },
+    {
+      "input": "How is carbon dioxide removed from the atmosphere?",
+      "output": "Plants remove carbon dioxide through photosynthesis."
+    },
+    {
+      "input": "How is carbon dioxide returned to the atmosphere?",
+      "output": "Through respiration, combustion, and decomposition."
+    },
+    {
+      "input": "How do decomposers contribute to the carbon cycle?",
+      "output": "They break down dead organisms, releasing carbon dioxide during respiration."
+    },
+    {
+      "input": "What is the nitrogen cycle?",
+      "output": "The nitrogen cycle describes how nitrogen is converted into usable forms and recycled in ecosystems."
+    },
+    {
+      "input": "What is nitrogen fixation?",
+      "output": "Nitrogen fixation is the process of converting nitrogen gas into ammonia by bacteria or lightning."
+    },
+    {
+      "input": "What is nitrification?",
+      "output": "Nitrification is the process where ammonia is converted into nitrates by nitrifying bacteria."
+    },
+    {
+      "input": "What is denitrification?",
+      "output": "Denitrification is the conversion of nitrates into nitrogen gas by denitrifying bacteria."
+    },
+    {
+      "input": "Why is nitrogen important to living organisms?",
+      "output": "Nitrogen is needed to make proteins and nucleic acids."
+    },
+    {
+      "input": "What are legumes and how do they help in nitrogen fixation?",
+      "output": "Legumes are plants that contain nitrogen-fixing bacteria in their root nodules."
+    },
+    {
+      "input": "How does deforestation affect biodiversity?",
+      "output": "It reduces biodiversity by destroying habitats and displacing species."
+    },
+    {
+      "input": "What are the effects of pollution on ecosystems?",
+      "output": "Pollution can damage habitats, poison organisms, and reduce biodiversity."
+    },
+    {
+      "input": "How does acid rain affect ecosystems?",
+      "output": "Acid rain damages plants, acidifies soil and water, and harms aquatic life."
+    },
+    {
+      "input": "What is eutrophication?",
+      "output": "Eutrophication is the excessive growth of algae due to nutrient pollution, leading to oxygen depletion in water."
+    },
+    {
+      "input": "What causes eutrophication?",
+      "output": "It is caused by runoff of fertilizers or sewage containing nitrates and phosphates."
+    },
+    {
+      "input": "How can eutrophication lead to fish death?",
+      "output": "Algal blooms block sunlight and decomposers use up oxygen, suffocating fish."
+    },
+    {
+      "input": "What is bioaccumulation?",
+      "output": "Bioaccumulation is the build-up of toxic substances in organisms along the food chain."
+    },
+    {
+      "input": "What is conservation?",
+      "output": "Conservation is the protection and management of ecosystems to preserve biodiversity."
+    },
+    {
+      "input": "Why is conservation important?",
+      "output": "It ensures sustainability, maintains biodiversity, and protects endangered species."
+    },
+    {
+      "input": "What is sustainable development?",
+      "output": "Sustainable development meets present needs without compromising future generations."
+    },
+    {
+      "input": "How can fish stocks be conserved?",
+      "output": "Through quotas, net size regulation, and closed seasons to prevent overfishing."
+    },
+    {
+      "input": "How do nature reserves help conservation?",
+      "output": "They protect habitats and species from human interference."
+    },
+    {
+      "input": "What is the greenhouse effect?",
+      "output": "It is the trapping of heat in the Earth's atmosphere by greenhouse gases like CO\u2082 and methane."
+    },
+    {
+      "input": "How does human activity increase greenhouse gases?",
+      "output": "Burning fossil fuels, deforestation, and agriculture release greenhouse gases."
+    },
+    {
+      "input": "What are the consequences of global warming?",
+      "output": "Global warming can cause climate change, ice melt, sea-level rise, and habitat loss."
+    },
+    {
+      "input": "What is an indicator species?",
+      "output": "An indicator species is used to assess environmental conditions, like pollution levels."
+    },
+    {
+      "input": "How can lichens indicate air pollution?",
+      "output": "Lichens are sensitive to sulfur dioxide and their presence or absence reflects air quality."
+    },
+    {
+      "input": "State population in ecological terms.",
+      "output": "A population is a group of organisms of the same species living in the same area at the same time."
+    },
+    {
+      "input": "Explain a community in ecology?",
+      "output": "A community is all the populations of different species living and interacting in an area."
+    },
+    {
+      "input": "Explain an ecosystem?",
+      "output": "An ecosystem includes all the living organisms and their physical environment interacting together."
+    },
+    {
+      "input": "State biodiversity.",
+      "output": "Biodiversity is the variety of different species of organisms in an ecosystem."
+    },
+    {
+      "input": "Explain meant by the term 'abiotic factor'?",
+      "output": "Abiotic factors are the non-living components of an ecosystem, like temperature, light, and water."
+    },
+    {
+      "input": "Give an example of a biotic factor.",
+      "output": "An example of a biotic factor is predation, which involves interactions between living organisms."
+    },
+    {
+      "input": "Explain a food chain?",
+      "output": "A food chain shows how energy is transferred from one organism to another in an ecosystem."
+    },
+    {
+      "input": "What does a food web represent?",
+      "output": "A food web represents a network of interconnected food chains in an ecosystem."
+    },
+    {
+      "input": "Explain a producer?",
+      "output": "A producer is an organism that makes its own food, usually through photosynthesis, like plants."
+    },
+    {
+      "input": "Explain a consumer?",
+      "output": "A consumer is an organism that eats other organisms to gain energy."
+    },
+    {
+      "input": "Explain a primary consumer?",
+      "output": "A primary consumer is an organism that eats producers, usually herbivores."
+    },
+    {
+      "input": "Explain a secondary consumer?",
+      "output": "A secondary consumer is an organism that eats primary consumers."
+    },
+    {
+      "input": "Explain a tertiary consumer?",
+      "output": "A tertiary consumer is an organism that eats secondary consumers."
+    },
+    {
+      "input": "Explain a decomposer?",
+      "output": "A decomposer is an organism that breaks down dead material and recycles nutrients into the ecosystem."
+    },
+    {
+      "input": "Explain the role of microorganisms in decay?",
+      "output": "Microorganisms break down organic material during decay, recycling nutrients into the soil."
+    },
+    {
+      "input": "Explain the importance of decay in ecosystems?",
+      "output": "Decay recycles nutrients, making them available for plants and supporting the food chain."
+    },
+    {
+      "input": "Explain meant by the term 'trophic level'?",
+      "output": "A trophic level is the position an organism occupies in a food chain."
+    },
+    {
+      "input": "Which organisms are always at the first trophic level?",
+      "output": "Producers are always at the first trophic level."
+    },
+    {
+      "input": "What happens to energy at each trophic level?",
+      "output": "Energy is lost at each trophic level, mostly as heat, movement, or undigested material."
+    },
+    {
+      "input": "Why are food chains usually limited to four or five trophic levels?",
+      "output": "Because energy is lost at each level, there is not enough energy to support more levels."
+    },
+    {
+      "input": "Explain a pyramid of numbers?",
+      "output": "A pyramid of numbers shows the number of organisms at each trophic level in a food chain."
+    },
+    {
+      "input": "Explain a pyramid of biomass?",
+      "output": "A pyramid of biomass shows the total mass of organisms at each trophic level."
+    },
+    {
+      "input": "Why is a pyramid of biomass more accurate than a pyramid of numbers?",
+      "output": "It accounts for the actual mass and energy, not just the number of organisms."
+    },
+    {
+      "input": "Explain the carbon cycle?",
+      "output": "The carbon cycle describes how carbon moves between the atmosphere, organisms, and the Earth."
+    },
+    {
+      "input": "How is carbon dioxide removed from the atmosphere?",
+      "output": "Plants remove carbon dioxide through photosynthesis."
+    },
+    {
+      "input": "How is carbon dioxide returned to the atmosphere?",
+      "output": "Through respiration, combustion, and decomposition."
+    },
+    {
+      "input": "How do decomposers contribute to the carbon cycle?",
+      "output": "They break down dead organisms, releasing carbon dioxide during respiration."
+    },
+    {
+      "input": "Explain the nitrogen cycle?",
+      "output": "The nitrogen cycle describes how nitrogen is converted into usable forms and recycled in ecosystems."
+    },
+    {
+      "input": "Explain nitrogen fixation?",
+      "output": "Nitrogen fixation is the process of converting nitrogen gas into ammonia by bacteria or lightning."
+    },
+    {
+      "input": "Explain nitrification?",
+      "output": "Nitrification is the process where ammonia is converted into nitrates by nitrifying bacteria."
+    },
+    {
+      "input": "Explain denitrification?",
+      "output": "Denitrification is the conversion of nitrates into nitrogen gas by denitrifying bacteria."
+    },
+    {
+      "input": "Why is nitrogen important to living organisms?",
+      "output": "Nitrogen is needed to make proteins and nucleic acids."
+    },
+    {
+      "input": "What are legumes and how do they help in nitrogen fixation?",
+      "output": "Legumes are plants that contain nitrogen-fixing bacteria in their root nodules."
+    },
+    {
+      "input": "Describe how deforestation affect biodiversity?",
+      "output": "It reduces biodiversity by destroying habitats and displacing species."
+    },
+    {
+      "input": "What are the effects of pollution on ecosystems?",
+      "output": "Pollution can damage habitats, poison organisms, and reduce biodiversity."
+    },
+    {
+      "input": "Describe how acid rain affect ecosystems?",
+      "output": "Acid rain damages plants, acidifies soil and water, and harms aquatic life."
+    },
+    {
+      "input": "Explain eutrophication?",
+      "output": "Eutrophication is the excessive growth of algae due to nutrient pollution, leading to oxygen depletion in water."
+    },
+    {
+      "input": "What causes eutrophication?",
+      "output": "It is caused by runoff of fertilizers or sewage containing nitrates and phosphates."
+    },
+    {
+      "input": "How can eutrophication lead to fish death?",
+      "output": "Algal blooms block sunlight and decomposers use up oxygen, suffocating fish."
+    },
+    {
+      "input": "Explain bioaccumulation?",
+      "output": "Bioaccumulation is the build-up of toxic substances in organisms along the food chain."
+    },
+    {
+      "input": "Explain conservation?",
+      "output": "Conservation is the protection and management of ecosystems to preserve biodiversity."
+    },
+    {
+      "input": "Why is conservation important?",
+      "output": "It ensures sustainability, maintains biodiversity, and protects endangered species."
+    },
+    {
+      "input": "Explain sustainable development?",
+      "output": "Sustainable development meets present needs without compromising future generations."
+    },
+    {
+      "input": "How can fish stocks be conserved?",
+      "output": "Through quotas, net size regulation, and closed seasons to prevent overfishing."
+    },
+    {
+      "input": "How do nature reserves help conservation?",
+      "output": "They protect habitats and species from human interference."
+    },
+    {
+      "input": "Explain the greenhouse effect?",
+      "output": "It is the trapping of heat in the Earth's atmosphere by greenhouse gases like CO\u2082 and methane."
+    },
+    {
+      "input": "Describe how human activity increase greenhouse gases?",
+      "output": "Burning fossil fuels, deforestation, and agriculture release greenhouse gases."
+    },
+    {
+      "input": "What are the consequences of global warming?",
+      "output": "Global warming can cause climate change, ice melt, sea-level rise, and habitat loss."
+    },
+    {
+      "input": "Explain an indicator species?",
+      "output": "An indicator species is used to assess environmental conditions, like pollution levels."
     }
   ]
   
