@@ -7,7 +7,7 @@ This project showcases a fine-tuned language model designed to answer Edexcel IG
 I fine-tuned a language model using a custom dataset of structured IGCSE biology questions and answer stored in form of json files. The goal is to assist students in revising biology more interactively through using a chatbot to make learning more approachable.
 
 - **Domain**: Edexcel IGCSE Biology (Unit 2 Food Production)
-- **Model**: Fine-tuned from a pretrained transformer model (e.g., DistilBERT, Zephyr)
+- **Model**: Fine-tuned from a pretrained transformer model (DistilBERT)
 - **Tech**: Python, Hugging Face Transformers, Gradio
 - **Impact**: Aligned with my mission to make education more accessible, especially for underserved communities.
 
@@ -27,3 +27,4 @@ I fine-tuned a language model using a custom dataset of structured IGCSE biology
 ```bash
 Question: Give an example of biological control.
 Model Answer: Introducing ladybirds to eat aphids on crops is an example of biological control.
+
